@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="title">Title</string>
+    <string name="odinakachi_nnuforole">Odinakachi Nnuforole</string>
+    <string name="mobile_developer">Mobile Developer</string>
+    <string name="facebook_app_id">663267057801511</string>
+    <string name="fb_login_protocol_scheme">fb663267057801511</string>
+    <string name="signed_out" />
+    <string name="google_status_fmt" />
+    <string name="firebase_status_fmt" />
+    <string name="description">Description</string>
+    <string name="sign_out">Sign out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="google_title">google title</string>
+
+</resources>
